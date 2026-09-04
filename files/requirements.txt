@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+chromadb
+rank-bm25
+ragas
+datasets
+pypdf
+streamlit
+sentence-transformers
+transformers
+huggingface-hub
+python-dotenv

@@ -1,0 +1,12 @@
+.env
+files/.env
+__pycache__/
+*.pyc
+rag/
+files/rag/
+files/fitness_chroma_db/
+files/nutrition_chroma_db/NutritiveValueofFoods-merged.pdf
+NutritiveValueofFoods-merged.pdf
+files/nutrition_chroma_db/
+files/fitness_chroma_db/
+files/rag/
